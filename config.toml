@@ -1,0 +1,4 @@
+baseURL = 'https://QuentinAudy.github.io/Blog'
+languageCode = 'en-us'
+title = 'Blog de Quentin'
+theme = "aether"
